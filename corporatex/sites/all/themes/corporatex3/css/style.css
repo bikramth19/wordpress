@@ -1,0 +1,39 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+
+.navbar-brand {
+  font-size: 2em;
+  padding: 19px 15px;
+  color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.bodyimage_left {
+  background: #fff;
+  padding: 4px;
+  border: 1px solid #ccc;
+  margin: 0 1.5em 0 0;
+}
+
+.bodyimage_right {
+  background: #fff;
+  padding: 4px;
+  border: 1px solid #ccc;
+  margin: 0 0 0 1.5em;
+}
+
+.bodyimage_none {
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+.profile .field-items table {
+  border: 1px solid #555;
+}

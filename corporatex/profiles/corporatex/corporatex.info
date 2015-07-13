@@ -1,0 +1,9 @@
+name = Corporate X v3.0.26 (Released January 24th, 2014)
+description = Corporate X Premium Drupal Theme v3.0.26 Installation Profile (Drupal 7.26).
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = file
+files[] = corporatex.profile
+
+
